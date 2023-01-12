@@ -1,11 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="201e79d7-d752-4ed7-9d95-8f39a473289d" name="Changes" comment="" />
+    <list default="true" id="201e79d7-d752-4ed7-9d95-8f39a473289d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cohort-fourteen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/cohort-fourteen.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceCourse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceCourse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceMove.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceTrack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exercises/chapterSeven/tortoise_hare/RaceTrack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exercises/chapterSeven/tortoise_hare/RaceCourseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/exercises/chapterSeven/tortoise_hare/RaceCourseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/exercises/chapterSeven/tortoise_hare/RaceTrackTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/exercises/chapterSeven/tortoise_hare/RaceTrackTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2KDnNCVcEndfiCmNOgxiiSG8Cd2" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -15,10 +39,115 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "full.screen.before.presentation.mode": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="exercises.chapterSeven.tortoise_hare" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.RaceTrackTest">
+    <configuration name="RaceCourseTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort-fourteen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapterSeven.tortoise_hare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises.chapterSeven.tortoise_hare" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapterSeven.tortoise_hare.RaceCourseTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceCourseTest.testThatHareIsInFirstSquareWhenRaceStarts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort-fourteen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapterSeven.tortoise_hare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises.chapterSeven.tortoise_hare" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapterSeven.tortoise_hare.RaceCourseTest" />
+      <option name="METHOD_NAME" value="testThatHareIsInFirstSquareWhenRaceStarts" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceTrackTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort-fourteen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapterSeven.tortoise_hare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises.chapterSeven.tortoise_hare" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapterSeven.tortoise_hare.RaceTrackTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceTrackTest.testTortoiseFast_PlodMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort-fourteen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapterSeven.tortoise_hare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises.chapterSeven.tortoise_hare" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapterSeven.tortoise_hare.RaceTrackTest" />
+      <option name="METHOD_NAME" value="testTortoiseFast_PlodMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RaceTrackTest.testTortoiseSlipMove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="cohort-fourteen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercises.chapterSeven.tortoise_hare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="exercises.chapterSeven.tortoise_hare" />
+      <option name="MAIN_CLASS_NAME" value="exercises.chapterSeven.tortoise_hare.RaceTrackTest" />
+      <option name="METHOD_NAME" value="testTortoiseSlipMove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.RaceTrackTest" />
+        <item itemvalue="JUnit.RaceTrackTest.testTortoiseSlipMove" />
+        <item itemvalue="JUnit.RaceTrackTest.testTortoiseFast_PlodMove" />
+        <item itemvalue="JUnit.RaceCourseTest" />
+        <item itemvalue="JUnit.RaceCourseTest.testThatHareIsInFirstSquareWhenRaceStarts" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
